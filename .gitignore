@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+
+# Generated data artifacts
+data/
+data/prices_extracted/
+data/On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2026_1*
+data/On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2026_1.csv
+
+
+# Experiment outputs
+simulation/results/
